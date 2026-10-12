@@ -1,4 +1,3 @@
-# pbo-pertemuan-2
 # Tugas Praktikum PBO - Pertemuan 2
 
 **Sistem Perhitungan Nilai Akhir & Status Kelulusan Mahasiswa**
