@@ -11,7 +11,7 @@ Repository ini berisi kode program PHP untuk memenuhi Tugas Praktikum Pemrograma
 * **Kelas:** 3 TI C
 
 ## Fitur & Alur Program
-Program ini dibuat menggunakan bahasa pemrograman PHP tanpa kerangka kerja (Native) dengan alur logika berikut:
+Program ini dibuat menggunakan bahasa pemrograman PHP dengan alur logika berikut:
 1. **Variabel:** Menggunakan 5 tipe data berbeda (String, Integer, Float, Boolean, Array).
 2. **Function:** Fungsi kustom `hitungNilaiAkhir()` untuk menghitung bobot nilai (Presensi 10%, Tugas 20%, UTS 30%, UAS 40%).
 3. **Percabangan:** Logika `if / elseif / else` untuk menentukan Huruf Mutu (Grade A-E) dan status kelulusan (Syarat: Nilai ≥ 65 & Kehadiran ≥ 12 kali).
