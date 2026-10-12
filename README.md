@@ -21,4 +21,4 @@ Program ini dibuat menggunakan bahasa pemrograman PHP tanpa kerangka kerja (Nati
 1. *Clone* atau unduh repository ini.
 2. Pindahkan folder ke dalam direktori server lokal (`htdocs` untuk XAMPP atau `www` untuk Laragon).
 3. Jalankan Apache Web Server.
-4. Buka browser dan akses `http://localhost/pbo-pertemuan-2/index.php`.
+4. Buka browser dan akses `http://localhost/pbo-pertemuan-2/pertemuan2.php`.
